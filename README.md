@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Rafael Kon Tein
 
 - 🔭 Atualmente sou focado nas liguagem Java e Kotlin.
-- 🌱 Sou programador  Android Nativos com Java e Kotlin
-- 😄 Veja meu avatar, repositorio e meus contatos mais abaixos 
+- 🌱 Sou programador  Android e back-end com Java e Kotlin
+
 <div align="left">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/rafaelkontein23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkontein2323&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkontein23&layout=compact&langs_count=7&theme=react"/>
 </div>
@@ -28,5 +28,3 @@
 </div>
   
 
-  
-  ![avatar](https://user-images.githubusercontent.com/80009977/134829361-1e929f7c-eca3-4f19-b714-337d0ffa54cb.jpg)
