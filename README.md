@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Rafael Kon Tein
+## Interessado em ver meus projetos privados? Entre em contato comigo via WhatsApp ou e-mail!
 
 - 🔭 Atualmente sou focado nas liguagem Java e Kotlin.
 - 🌱 Sou programador  Android e back-end com Java e Kotlin
